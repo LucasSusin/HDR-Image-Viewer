@@ -13,5 +13,7 @@
     (See pdf files for more info)
     <br/>
     2021/1
+    <br/>
+    ⚠️Poor Algorithm! It can be more efficient if you make the methods inside the same for. Made in 24 hours
   </p>
 </p>
